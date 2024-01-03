@@ -1,6 +1,5 @@
 测试,#genre#
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2CCTV1 高清,http://112.31.143.3:6410/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+CCTV1 高清,http://112.31.143.3:6410/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
 CCTV2 高清,http://112.31.143.3:6410/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
 CCTV3 高清,http://112.31.143.3:6410/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
 CCTV4 高清,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/XMTcctv-4hd/index.m3u8
